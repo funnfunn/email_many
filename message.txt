@@ -1,0 +1,6 @@
+This is the email content. If you received this, it means it works.
+
+This is a second paragraph.
+
+Best regards
+John Trabolta
