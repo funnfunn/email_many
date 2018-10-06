@@ -4,6 +4,7 @@ import numpy as np
 from time import sleep
 import getpass
 
+#WHOOOOO
 
 sender_email_address = input("Enter the email address you wish to send the emails from (only lower case letters): ")
 password = getpass.getpass("Enter your password: ")
